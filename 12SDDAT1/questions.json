@@ -1,0 +1,128 @@
+[
+    [
+        "The year 2000 problem was a result of:",
+        [
+            "The use of inappropriate data structures",
+            "Computer Malware/viruses",
+            "Under-reliance on software",
+            "Hacking"
+        ]
+    ],
+    [
+        "Which of the following is not a good measure of quality in software?",
+        [
+            "price",
+            "reliability",
+            "ease of use",
+            "consistency"
+        ]
+    ], 
+    [
+        "What is shareware?",
+        [
+            "software distributed free of charge, with the expectation of a later payment",
+            "Software distributed free of charge, but the author retains copyright",
+            "Software distributed free of charge, with no traditional copyright attached",
+            "Paid software obtained from a social media platform"
+        ]
+    ],
+    [
+        "What is the definition of plagiarism?",
+        [
+            "claiming authorship of an intellectual property owned by another person",
+            "Buying pirated software",
+            "Redistributing paid software for free or a lower cost",
+            "Using technologies like encryption keys to protect from software piracy"
+        ]
+    ],
+    [
+        "Which of the following is not a key part of the development of client/server software?",
+        [
+            "Team management",
+            "The interface",
+            "Database management",
+            "Network software"
+        ]
+    ],
+    [
+        "Which of the following is not a direct way to maintain market position?",
+        [
+            "Abandoning existing completed software projects",
+            "Improving and updating current applications",
+            "Introducing new and innovative software applications",
+            "Advertising current and upcoming software"
+        ]
+    ],
+    [
+        "What is end-user development?",
+        [
+            "Development where the developer is also the client",
+            "Development with no specific client or target audience",
+            "Development with a strict deadline set by the user",
+            "Software where the final parts are developed by the user"
+        ]
+    ],
+    [
+        "What is not an example of a traditional function in a CASE tool?",
+        [
+            "Financial reports",
+            "Software version control",
+            "Test-data generation",
+            "Production of documentation"
+        ]
+    ],
+    [
+        "What is a pilot conversion?",
+        [
+            "The new system is initially only used for some operations, before changing everything over",
+            "Both the old and new system are used simultaneously for a period",
+            "Modules of a system are gradually changed to the new system until it is fully updated",
+            "Everything from the old system is updated to the new system in one go"
+        ]
+    ],
+    [
+        "What is not a disadvantage of direct conversion?",
+        [
+            "The old system is not available for use if the new system fails",
+            "converting data from old to new systems may cause problems",
+            "Training needs to be completed by staff before conversion",
+            "An increased workload due to using both old and new systems simultaneously"
+        ]
+    ],
+    [
+        "What is not considered a compatibility issue?",
+        [
+            "If the program does not have internal documentation",
+            "transfer of data from new to old system",
+            "new modules that may not work with the current software",
+            "Whether the hardware will work with the software"
+        ]
+    ],
+    [
+        "What is a boundary in software design?",
+        [
+            "A boundary defines the limits of a system",
+            "The locations in which a software can be used",
+            "Laws and regulations on the use of a software",
+            "A boundary defines the modules in a system"
+        ]
+    ],
+    [
+        "What is a storyboard in software design?",
+        [
+            "A diagram that shows the relationship between screens within an application",
+            "A table of stories used as inspiration for the application",
+            "A diagram that outlines the inputs, processes and outputs of a system",
+            "Documentation of the timeline of the development of a system"
+        ]
+    ],
+    [
+        "What is a system flowchart?",
+        [
+            "A diagram that shows the flow of data in a system and all its modules and media",
+            "A diagram that shows the order in which modules in a system are run",
+            "A tool that generates code and documentation",
+            "A comprehensive description of data items in a system"
+        ]
+    ]
+]
